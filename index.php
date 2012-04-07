@@ -41,21 +41,21 @@
 			<h2>HTML</h2>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
-				<input type="file" name="files[]" multiple="">
+				<!-- <input type="file" name="files[]" multiple=""> -->
 			</span>
 		</div><!-- end .filesArea #htmlFiles -->
 		<div class="filesArea" id="cssFiles">
 			<h2>CSS</h2>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
-				<input type="file" name="files[]" multiple="">
+				<!-- <input type="file" name="files[]" multiple=""> -->
 			</span>
 		</div><!-- end .filesArea #htmlFiles -->
 		<div class="filesArea" id="jsFiles">
 			<h2>JS</h2>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
-				<input type="file" name="files[]" multiple="">
+				<!-- <input type="file" name="files[]" multiple=""> -->
 			</span>
 		</div><!-- end .filesArea #htmlFiles -->
 	</div><!-- end #input -->

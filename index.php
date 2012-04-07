@@ -34,6 +34,7 @@
 <body>
 
 	<h1>Court</h1>
+	<p><em>a sovereign's formal assembly of councillors and officers</em></p>
 	
 	<div ID="input">
 		<div class="filesArea" id="htmlFiles">

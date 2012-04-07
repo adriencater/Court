@@ -6,6 +6,30 @@
 	<link rel="stylesheet" href="">
 	<style type="text/css"></style>
 	<script src=""></script>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+	<!-- BOOTSTRAP-->
+	<link href="lib/bootstrap/docs/assets/css/bootstrap.css" rel="stylesheet">
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-transition.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-alert.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-modal.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-dropdown.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-scrollspy.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-tab.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-tooltip.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-popover.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-button.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-collapse.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-carousel.js"></script>
+	<script src="lib/bootstrap/docs/assets/js/bootstrap-typeahead.js"></script>
+
+
 </head>
 <body>
 

@@ -67,18 +67,18 @@
 	</div><!-- end #input -->
 
 	<div ID="control" class="span2">
+		<i class="icon--arrow-right"></i>
 		<button type="submit" class="btn btn-primary start">
 			<i class="icon-refresh"></i><span>Refresh</span>
 		</button>
 	</div><!-- end #control -->
 
 	<div ID="output" class="span4">
-		<i class="icon-file"></i>
-		<input type="text" class="span3" placeholder="output.pdf">
-		<span class="help-inline">Give your file a name.</span>
-		<button type="submit" class="btn btn-primary start">
+		<p><i class="icon-file"></i></p>
+		<p><input type="text" class="span3" placeholder="output.pdf"><span class="help-inline">Give your file a name.</span></p>
+		<p><button type="submit" class="btn btn-primary start">
 			<i class="icon-file"></i><span>Make PDF</span>
-		</button>
+		</button></p>
 	</div><!-- end #output -->
 
 </div> <!-- end .row-->

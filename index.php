@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<title>Court</title>
-	<link rel="stylesheet" href="">
+	<link rel="stylesheet" href="lib/style.css">
 	<style type="text/css"></style>
 	<script src=""></script>
 
@@ -35,10 +35,13 @@
 
 	<h1>Court</h1>
 	<p><em>a sovereign's formal assembly of councillors and officers</em></p>
+	<p>Drop a bunch of HTML, CSS, and Javascript files anywhere to get started
+		<br />(or drop them into the zones below to get started *carefully*)</p>
 	
 	<div ID="input">
 		<div class="filesArea" id="htmlFiles">
 			<h2>HTML</h2>
+			<div class="dropZone">drop files here..</div>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
 				<!-- <input type="file" name="files[]" multiple=""> -->
@@ -46,6 +49,7 @@
 		</div><!-- end .filesArea #htmlFiles -->
 		<div class="filesArea" id="cssFiles">
 			<h2>CSS</h2>
+			<div class="dropZone">drop files here..</div>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
 				<!-- <input type="file" name="files[]" multiple=""> -->
@@ -53,6 +57,7 @@
 		</div><!-- end .filesArea #htmlFiles -->
 		<div class="filesArea" id="jsFiles">
 			<h2>JS</h2>
+			<div class="dropZone">drop files here..</div>
 			<span class="btn btn-success fileinput-button">
 				<i class="icon-plus"></i><span>Add files…</span>
 				<!-- <input type="file" name="files[]" multiple=""> -->

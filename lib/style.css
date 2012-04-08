@@ -1,0 +1,12 @@
+BODY{
+	margin:60px;
+}
+
+.dropZone{
+	width:162px;
+	height:100px;
+	background-color:#EEE;
+	border: 1px solid #CCC;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}

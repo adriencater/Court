@@ -1,5 +1,5 @@
 BODY{
-	margin:60px;
+	margin:auto;
 }
 
 .dropZone{
@@ -10,3 +10,19 @@ BODY{
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
+
+#input{
+
+}
+#control{
+	
+}
+#output{
+	
+}
+
+.filesArea{
+	border-top: 1px solid #666;
+	margin-bottom: 4em;
+}
+

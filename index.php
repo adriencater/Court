@@ -3,7 +3,6 @@
 	<head>
 	<meta charset="utf-8">
 	<title>Court</title>
-	<link rel="stylesheet" href="lib/style.css">
 	<style type="text/css"></style>
 	<script src=""></script>
 
@@ -29,16 +28,18 @@
 	<script src="lib/bootstrap/docs/assets/js/bootstrap-carousel.js"></script>
 	<script src="lib/bootstrap/docs/assets/js/bootstrap-typeahead.js"></script>
 
-
+	<link rel="stylesheet" href="lib/style.css">
 </head>
 <body>
 
 	<h1>Court</h1>
 	<p><em>a sovereign's formal assembly of councillors and officers</em></p>
-	<p>Drop a bunch of HTML, CSS, and Javascript files anywhere to get started
+	<p><strong>Drop a bunch of HTML, CSS, and Javascript files anywhere to get started</strong>
 		<br />(or drop them into the zones below to get started *carefully*)</p>
-	
-	<div ID="input">
+
+<div class="row">
+
+	<div ID="input" class="span6">
 		<div class="filesArea" id="htmlFiles">
 			<h2>HTML</h2>
 			<div class="dropZone">drop files here..</div>
@@ -65,13 +66,13 @@
 		</div><!-- end .filesArea #htmlFiles -->
 	</div><!-- end #input -->
 
-	<div ID="control">
+	<div ID="control" class="span2">
 		<button type="submit" class="btn btn-primary start">
 			<i class="icon-refresh"></i><span>Refresh</span>
 		</button>
 	</div><!-- end #control -->
 
-	<div ID="output">
+	<div ID="output" class="span4">
 		<i class="icon-file"></i>
 		<input type="text" class="span3" placeholder="output.pdf">
 		<span class="help-inline">Give your file a name.</span>
@@ -79,6 +80,8 @@
 			<i class="icon-file"></i><span>Make PDF</span>
 		</button>
 	</div><!-- end #output -->
+
+</div> <!-- end .row-->
 
 </body>
 </html>
